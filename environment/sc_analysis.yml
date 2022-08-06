@@ -1,0 +1,10 @@
+name: sc_analysis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyter lab
+  - scanpy
+  - python-igraph
+  - leidenalg
+  
